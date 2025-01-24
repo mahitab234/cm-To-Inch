@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calculator cm to inch</string>
+    <string name="welcome">Welcome back!</string>
+    <string name="cm">Enter distance in cm</string>
+    <string name="btn_click">Click to calculate</string>
+    <string name="inch">Distance in inch</string>
+</resources>
